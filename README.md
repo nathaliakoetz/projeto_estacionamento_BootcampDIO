@@ -56,5 +56,3 @@ Antes de começar, certifique-se de ter o [.NET SDK](https://dotnet.microsoft.co
 ## 🤝 Contribuição
 
 Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests*! 🚀
-
----
